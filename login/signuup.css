@@ -1,0 +1,100 @@
+/*
+#spilt{
+    height:100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 3px;
+    background-color: #000000;
+    margin-left: 0;
+    margin-left: 0;
+    padding: 0;
+}*/
+
+.navbar-expand-lg{
+    background-color: #002C40;
+    
+}
+
+img{
+    height: 50px;
+    width: 50px;
+    margin-right: 40px;
+}
+
+
+#nav{
+
+    
+    padding-left: 150px;
+}
+
+
+body{
+    padding-top: 80px;
+    height: 4000px;
+}
+
+/*.signin{
+    padding-right: 150px;
+     position: relative;
+     float: left;
+     width: 300px;
+     left: -500px;
+     height: 600px;
+     z-index: 999;
+     transition: all 2.0s;
+     -webkit-transition:all 2.0s;
+     -moz-transition: all 2.0s;
+     -ms-transition: all 2.0s;
+     -o-transition:all 2.0s;
+   
+    
+}
+*/
+/*
+.open {
+    background: white;
+    left: 0px;
+
+}
+*/
+
+
+
+.container{
+    padding-top: 100px;
+}
+
+/*
+span {
+    color: #A9A9A9;
+
+}
+*/
+
+/*
+.close {
+     display: block;
+     height: 60px;
+     font-size: 36px;
+     float: right;
+     padding: 0 10px;
+     cursor: pointer;
+     color: #002c40;
+     position: absolute;
+     left: 100px;
+     line-height: 60px;
+     transition: all 2.0s;
+     -webkit-transition:all 2.0s;
+     -moz-transition: 2.0s;
+     -ms-transition: all 2.0s;
+     -o-transition: all 2.0s ;
+}
+*/
+
+/*
+.open-x {
+
+    color : #eeeeee;
+}
+*/
